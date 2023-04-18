@@ -40,5 +40,7 @@ Information stored in local storage and displayed in corresponding time-block:
 
 ## Deployed Application
 
+Link to deployed application: https://mariafernandamarroquin.github.io/work-day-scheduler/
+
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
